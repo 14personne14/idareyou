@@ -1,0 +1,20 @@
+{
+  "name": "idareyou",
+  "version": "1.0.0",
+  "description": "Multiplayer game for parties with friends or family",
+  "homepage": "https://github.com/14personne14/idareyou#readme",
+  "bugs": {
+    "url": "https://github.com/14personne14/idareyou/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/14personne14/idareyou.git"
+  },
+  "license": "MIT",
+  "author": "personne14 & BernardoJBueno",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
